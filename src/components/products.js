@@ -71,4 +71,12 @@ export const products = [
     img: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     quantity: 1,
   },
+  {
+    id: 10,
+    title: "Samsung M21",
+    description: "white in color",
+    price: "2300",
+    img: "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    quantity: 1,
+  },
 ];
